@@ -2,3 +2,5 @@ SFTP/.vagrant/
 SFTP/*.log
 Docker/.vagrant/
 Docker/*.log
+WebServerPython/.vagrant/
+WebServerPython/*.log
